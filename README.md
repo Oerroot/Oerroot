@@ -25,7 +25,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oerroot)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Oerroot)](https://github.com/anuraghazra/github-readme-stats)
 
 
 -->
