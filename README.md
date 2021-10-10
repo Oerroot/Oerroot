@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerroot&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oerroot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 -->
