@@ -17,7 +17,7 @@ No Activity tracked this Week
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerroot&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Oerroot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Oerroot&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oerroot&count_private=true&show_icons=true&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
