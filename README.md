@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerroot)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerroot&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerroot&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerroot&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oerroot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
