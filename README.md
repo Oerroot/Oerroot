@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 October, 2021 - 12 October, 2021
+Week: 07 October, 2021 - 13 October, 2021
 
 YAML       6 hrs 58 mins   ████████████████████▒░░░░   81.88 % 
 Markdown   45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
