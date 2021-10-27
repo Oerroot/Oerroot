@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
 YAML       1 hr 1 min      ████████████▓░░░░░░░░░░░░   50.95 % 
 Other      36 mins         ███████▓░░░░░░░░░░░░░░░░░   30.49 % 
