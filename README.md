@@ -13,7 +13,7 @@
 ```text
 Week: 25 October, 2021 - 31 October, 2021
 
-
+C++   7 mins          ███████████████████████░░   91.82 % 
 ```
 <!--END_SECTION:waka-->
 
