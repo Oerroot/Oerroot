@@ -13,7 +13,7 @@
 ```text
 Week: 17 November, 2021 - 23 November, 2021
 
-JSON   4 mins          ████████████████████████▒   97.45 % 
+JSON   4 mins          ████████████████████████▒   96.75 % 
 ```
 <!--END_SECTION:waka-->
 
