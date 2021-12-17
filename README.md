@@ -13,7 +13,7 @@
 ```text
 Week: 10 December, 2021 - 16 December, 2021
 
-JSON   1 min           █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
 
