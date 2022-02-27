@@ -10,9 +10,11 @@
 -->
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerroot&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
