@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 March 2022 - To: 17 March 2022
+
+Python    2 hrs 29 mins   ███████████████████▓░░░░░   78.43 %
+CSV/TSV   39 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
+C++       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
