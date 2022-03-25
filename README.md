@@ -12,11 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 March 2022 - To: 24 March 2022
+From: 18 March 2022 - To: 25 March 2022
 
-Python    1 hr 11 mins    ███████████████████████▓░   94.22 %
-CSV/TSV   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-C++       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
