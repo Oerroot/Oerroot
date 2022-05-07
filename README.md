@@ -12,7 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 30 April 2022 - To: 07 May 2022
+
+C        0 secs          █████████████████████████   100.00 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
