@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 July 2022 - To: 17 July 2022
-
-Python   18 mins         ████████████████████▒░░░░   81.65 %
-Other    4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
