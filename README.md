@@ -12,7 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 07 September 2022 - To: 14 September 2022
+
+C++   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
