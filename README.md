@@ -12,9 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
-C++   0 secs          █████████████████████████   100.00 %
+C++   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
