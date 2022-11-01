@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 25 October 2022 - To: 01 November 2022
+
+C++    11 mins         ███████████████▓░░░░░░░░░   62.12 %
+YAML   6 mins          ████████▓░░░░░░░░░░░░░░░░   34.94 %
+Git    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
