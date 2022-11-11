@@ -12,7 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 04 November 2022 - To: 11 November 2022
+
+Python   45 mins         ██████████████████░░░░░░░   72.66 %
+JSON     12 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+C        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
