@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 22 November 2022
+From: 16 November 2022 - To: 23 November 2022
 
-C++    12 mins         ████████████▒░░░░░░░░░░░░   48.81 %
-JSON   8 mins          ████████░░░░░░░░░░░░░░░░░   31.77 %
-C      5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+JSON   8 mins          ███████████████▓░░░░░░░░░   62.07 %
+C      5 mins          █████████▒░░░░░░░░░░░░░░░   37.93 %
 ```
 
 <!--END_SECTION:waka-->
