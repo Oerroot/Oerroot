@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 23 November 2022
-
-JSON   8 mins          ███████████████▓░░░░░░░░░   62.07 %
-C      5 mins          █████████▒░░░░░░░░░░░░░░░   37.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
