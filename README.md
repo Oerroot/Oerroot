@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
 JSON   0 secs          ██████████████████▒░░░░░░   73.92 %
 C      0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
