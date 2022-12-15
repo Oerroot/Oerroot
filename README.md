@@ -12,9 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 14 December 2022
+From: 08 December 2022 - To: 15 December 2022
 
-C   7 mins          █████████████████████████   100.00 %
+Python       51 mins         ████████████▒░░░░░░░░░░░░   48.73 %
+YAML         32 mins         ███████▓░░░░░░░░░░░░░░░░░   30.36 %
+C            16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
