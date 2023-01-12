@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
 Python   15 mins         █████████████████████████   99.86 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
