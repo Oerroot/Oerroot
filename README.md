@@ -12,7 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 January 2023 - To: 02 February 2023
+
+Git      14 mins         ██████████████▒░░░░░░░░░░   57.32 %
+Python   10 mins         ██████████▓░░░░░░░░░░░░░░   42.68 %
 ```
 
 <!--END_SECTION:waka-->
