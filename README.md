@@ -14,11 +14,7 @@
 ```txt
 From: 13 November 2023 - To: 20 November 2023
 
-YAML             33 mins         ██████████████▒░░░░░░░░░░   57.65 %
-Other            15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
-HTML             8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
