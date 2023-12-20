@@ -12,13 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2023 - To: 19 December 2023
+From: 13 December 2023 - To: 20 December 2023
 
-Python           36 mins         █████████████████▓░░░░░░░   71.25 %
-Other            8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
-Markdown         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-HTML             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Python     29 mins         █████████████████████▓░░░   86.68 %
+Markdown   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+HTML       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
