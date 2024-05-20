@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2024 - To: 19 May 2024
+From: 13 May 2024 - To: 20 May 2024
 
-SQL     6 mins          ████████████████████████▓   98.79 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+SQL     3 mins          ████████████████████████▒   97.76 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
