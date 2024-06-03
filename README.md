@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2024 - To: 02 June 2024
+From: 27 May 2024 - To: 03 June 2024
 
-SQL              2 hrs 12 mins   █████████████████████████   99.38 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SQL     2 hrs 27 mins   █████████████████████████   99.52 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
