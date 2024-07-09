@@ -12,10 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2024 - To: 08 July 2024
+From: 02 July 2024 - To: 09 July 2024
 
-YAML   14 mins         ███████████████████████▒░   92.97 %
-XML    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+YAML         14 mins         ███████████████████▒░░░░░   77.29 %
+JavaScript   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+XML          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
 ```
 
 <!--END_SECTION:waka-->
