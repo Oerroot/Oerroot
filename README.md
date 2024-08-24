@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
 Other        38 mins         █████████░░░░░░░░░░░░░░░░   35.45 %
 Java         35 mins         ████████░░░░░░░░░░░░░░░░░   32.38 %
