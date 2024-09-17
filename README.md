@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Python       11 mins         ████████████▒░░░░░░░░░░░░   49.76 %
-JavaScript   6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.31 %
-Java         4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+Python       11 mins         ███████████▓░░░░░░░░░░░░░   46.38 %
+JavaScript   6 mins          ███████░░░░░░░░░░░░░░░░░░   28.25 %
+Java         6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
 ```
 
 <!--END_SECTION:waka-->
