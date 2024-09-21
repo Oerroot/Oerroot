@@ -12,12 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2024 - To: 20 September 2024
+From: 14 September 2024 - To: 21 September 2024
 
-Python       12 mins         ████████████████░░░░░░░░░   63.67 %
-Other        7 mins          █████████░░░░░░░░░░░░░░░░   36.19 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-PythonStub   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        7 mins          ████████████████████▓░░░░   82.78 %
+Python       1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
+PythonStub   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
