@@ -12,10 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2024 - To: 10 October 2024
+From: 04 October 2024 - To: 11 October 2024
 
-Batchfile   6 mins          █████████████████████████   99.71 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+SQL         6 mins          █████████▓░░░░░░░░░░░░░░░   38.18 %
+Batchfile   6 mins          █████████░░░░░░░░░░░░░░░░   36.29 %
+Other       4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
 ```
 
 <!--END_SECTION:waka-->
