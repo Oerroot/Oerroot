@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2024 - To: 14 October 2024
+From: 08 October 2024 - To: 15 October 2024
 
 SQL         6 mins          █████████▓░░░░░░░░░░░░░░░   38.18 %
 Batchfile   6 mins          █████████░░░░░░░░░░░░░░░░   36.29 %
