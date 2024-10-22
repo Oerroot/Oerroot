@@ -12,12 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 21 October 2024
+From: 15 October 2024 - To: 22 October 2024
 
-YAML        18 mins         ████████████▓░░░░░░░░░░░░   51.21 %
-Other       16 mins         ███████████▓░░░░░░░░░░░░░   47.12 %
-Bash        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Other   31 mins         ████████████████░░░░░░░░░   63.61 %
+YAML    17 mins         █████████░░░░░░░░░░░░░░░░   36.39 %
 ```
 
 <!--END_SECTION:waka-->
