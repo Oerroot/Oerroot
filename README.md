@@ -12,12 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 24 October 2024
+From: 18 October 2024 - To: 25 October 2024
 
-Other        14 mins         █████████████████████▒░░░   84.82 %
-HTML         2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Other        37 mins         ███████████████████████▒░   93.51 %
+HTML         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
