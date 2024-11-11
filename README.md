@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2024 - To: 10 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
-Other        55 mins         ██████████████████████▓░░   91.01 %
-YAML         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Batchfile    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Other        1 hr 23 mins    ███████████████████████▒░   93.99 %
+YAML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
