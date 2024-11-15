@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2024 - To: 14 November 2024
+From: 08 November 2024 - To: 15 November 2024
 
-YAML              3 hrs 12 mins   █████████████░░░░░░░░░░░░   51.79 %
-Other             2 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   33.47 %
-SQL               22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Java Properties   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Bash              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+YAML              3 hrs 18 mins   █████████████░░░░░░░░░░░░   52.64 %
+Other             2 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   32.93 %
+SQL               22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Java Properties   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Bash              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
