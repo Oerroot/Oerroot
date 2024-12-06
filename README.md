@@ -12,13 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-Other        1 hr 6 mins     ██████████████░░░░░░░░░░░   55.66 %
-SQL          39 mins         ████████▒░░░░░░░░░░░░░░░░   32.77 %
-JavaScript   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Text         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+SQL     1 hr 28 mins    █████████████▓░░░░░░░░░░░   55.19 %
+Other   1 hr 5 mins     ██████████▒░░░░░░░░░░░░░░   41.02 %
+Text    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
