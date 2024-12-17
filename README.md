@@ -12,10 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2024 - To: 16 December 2024
+From: 10 December 2024 - To: 17 December 2024
 
-Other   1 min           ████████████████▒░░░░░░░░   65.83 %
-SQL     0 secs          ████████▓░░░░░░░░░░░░░░░░   34.17 %
+Bash    7 mins          ████████████████████▓░░░░   82.63 %
+Other   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+SQL     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 ```
 
 <!--END_SECTION:waka-->
