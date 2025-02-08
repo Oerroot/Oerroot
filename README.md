@@ -12,9 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2025 - To: 07 February 2025
+From: 01 February 2025 - To: 08 February 2025
 
-Other   41 mins         █████████████████████████   100.00 %
+Other   58 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
