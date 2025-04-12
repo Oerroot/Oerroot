@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
 Other    1 hr 21 mins    ██████████████████▓░░░░░░   74.77 %
 YAML     11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
