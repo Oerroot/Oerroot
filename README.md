@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2025 - To: 19 April 2025
+From: 13 April 2025 - To: 20 April 2025
 
 Other    11 mins         █████████████░░░░░░░░░░░░   52.05 %
 SQL      6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.23 %
