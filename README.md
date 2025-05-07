@@ -12,9 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2025 - To: 06 May 2025
+From: 30 April 2025 - To: 07 May 2025
 
-No activity tracked
+YAML    26 mins         ████████████▒░░░░░░░░░░░░   49.34 %
+SQL     14 mins         ███████░░░░░░░░░░░░░░░░░░   27.40 %
+Other   12 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
 ```
 
 <!--END_SECTION:waka-->
