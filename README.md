@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 12 May 2025
+From: 06 May 2025 - To: 13 May 2025
 
 YAML    32 mins         ████████████░░░░░░░░░░░░░   48.02 %
 SQL     14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
