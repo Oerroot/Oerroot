@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2025 - To: 17 May 2025
+From: 11 May 2025 - To: 18 May 2025
 
 Text   6 mins          ████████████▓░░░░░░░░░░░░   50.49 %
 JSON   3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
