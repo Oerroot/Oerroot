@@ -12,9 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-No activity tracked
+C++          13 mins         ██████████████░░░░░░░░░░░   55.92 %
+JavaScript   5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.38 %
+JSON         4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
