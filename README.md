@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
 C++          13 mins         ██████████▒░░░░░░░░░░░░░░   41.73 %
 JavaScript   8 mins          ███████░░░░░░░░░░░░░░░░░░   27.75 %
