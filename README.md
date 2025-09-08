@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-JavaScript   37 mins         ████████▒░░░░░░░░░░░░░░░░   32.70 %
-Rust         21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-Other        12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Markdown     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-Batchfile    8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+JavaScript   37 mins         ████████▓░░░░░░░░░░░░░░░░   34.65 %
+Rust         21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.08 %
+Other        12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+Markdown     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Batchfile    8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
 ```
 
 <!--END_SECTION:waka-->
