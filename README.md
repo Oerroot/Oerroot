@@ -12,12 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-YAML       29 mins         ███████████░░░░░░░░░░░░░░   43.83 %
-Rust       19 mins         ███████░░░░░░░░░░░░░░░░░░   28.60 %
-Markdown   13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 %
-Git        5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
