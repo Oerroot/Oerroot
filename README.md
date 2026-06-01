@@ -12,12 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2026 - To: 31 May 2026
+From: 25 May 2026 - To: 01 June 2026
 
-Markdown     10 mins               ████████████▒░░░░░░░░░░░░   49.21 %
-TypeScript   7 mins                ████████░░░░░░░░░░░░░░░░░   32.55 %
-Other        3 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-CSS          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Other   3 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
