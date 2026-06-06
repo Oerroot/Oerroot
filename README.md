@@ -12,11 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2026 - To: 05 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-SSH Config   18 mins               █████████████████████░░░░   83.94 %
-Public Key   3 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+SSH Config   18 mins               █████████████▓░░░░░░░░░░░   55.32 %
+Git Config   9 mins                ███████▒░░░░░░░░░░░░░░░░░   28.97 %
+Public Key   3 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+JSON         1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
