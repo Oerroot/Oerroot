@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2026 - To: 19 September 2026
+From: 13 September 2026 - To: 20 September 2026
 
-Other             11 hrs 22 mins        █████████░░░░░░░░░░░░░░░░   35.48 %
-Rust              9 hrs 55 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 %
-Markdown          5 hrs 17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-C++               2 hrs 59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Bash              47 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Other             11 hrs 22 mins        █████████▓░░░░░░░░░░░░░░░   38.04 %
+Rust              8 hrs 12 mins         ███████░░░░░░░░░░░░░░░░░░   27.44 %
+Markdown          4 hrs 59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+C++               2 hrs 59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Bash              45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
